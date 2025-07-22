@@ -1,6 +1,6 @@
 <h1 align="center">Olá! eu sou Romário Silva
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=BEM+VINDO+AO+MEU+PERFIL!;STUDANDO...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=BEM+VINDO+AO+MEU+PERFIL!;ESTUDANDO...)](https://git.io/typing-svg)
 
 <h3 align="left">Contato:</h3>
 <p align="left">

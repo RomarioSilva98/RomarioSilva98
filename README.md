@@ -1,17 +1,20 @@
-## Olá! eu sou Romário Silva
+<h1 align="center">Olá! eu sou Romário Silva
 
-👨‍💻 Estou estudando Java e JavaScript 
+https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=50&lines=Desenvolvedor+Back-End;Aspirante+a+Full+Stack;Bem-vindo+ao+meu+perfil!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Romario-Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  <img align="center" alt="Romario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Romario-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
+<h3 align="left">Contato:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rom%C3%A1rio-silva-b587b228a" height="30" width="40" /></a>
+<a href="https://instagram.com/_romario_silva._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_romario_silva._" height="30" width="40" /></a>
+<a href="mailto:romariosilva859@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="romariosilva859@gmail.com" height="30" width="40" /></a>
+</p>
 
-  ##
+<h3 align="left">Linguagens e ferramentas:</h3>
+
+<div style="display: inline_block"><br> <img align="center" alt="Java" height="40" width="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> <img align="center" alt="Spring" height="40" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Flutter" height="40" width="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </div>
+
+
+
  
-<div> 
-  <a href="https://instagram.com/_romario_silva._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>

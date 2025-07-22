@@ -13,7 +13,9 @@
 
 <div style="display: inline_block"><br> <img align="center" alt="Java" height="40" width="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> <img align="center" alt="Spring" height="40" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Flutter" height="40" width="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </div>
 
-</div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+<div>
 <div>
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RomarioSilva98&show_icons=true&theme=gotham" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RomarioSilva98&theme=gotham" /> </p><p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioSilva98&layout=compact&theme=gotham&langs_count=6" /> </p>
 </div>

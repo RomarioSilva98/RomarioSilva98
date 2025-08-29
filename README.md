@@ -6,7 +6,7 @@
 <p align="left">
 <a href="mailto:romariosilva859@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rom%C3%A1rio-silva-b587b228a" height="30" width="40" /></a>
-<a href="https://instagram.com/romario_f_silva._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_romario_silva._" height="30" width="40" /></a>
+<a href="https://instagram.com/romario_f_silva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_romario_silva._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>

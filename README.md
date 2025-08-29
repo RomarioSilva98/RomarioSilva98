@@ -1,6 +1,6 @@
 <h1 align="center">Olá! eu sou Romário Silva</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=BEM+VINDO+AO+MEU+PERFIL!;ESTUDANDO...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=ffffff&center=true&width=400&height=200&lines=SEJA+BEM+VINDO+AO+MEU+PERFIL!;)](https://git.io/typing-svg)
 
 <h3 align="left">Contato:</h3>
 <p align="left">
@@ -10,17 +10,18 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-
 <div style="display: inline_block; margin-bottom: 20px;"><br> 
   <img align="center" alt="Java" height="40" width="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
   <img align="center" alt="Spring" height="40" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> 
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
   <img align="center" alt="Flutter" height="40" width="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> 
+  <img align="center" alt="React Native" height="40" width="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
+  
 </div>
 
 <br>

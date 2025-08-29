@@ -18,9 +18,10 @@
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
   <img align="center" alt="Flutter" height="40" width="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> 
   <img align="center" alt="React Native" height="40" width="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+  <img align="center" alt="SQL Server" height="40" width="50" src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg"> 
   
 </div>
 

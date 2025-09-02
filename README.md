@@ -1,8 +1,10 @@
-<h1 align="center">Olá! eu sou Romário Silva</h1>
+<h1 >Olá! eu sou Romário Silva</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=ffffff&center=true&width=1000&height=150&lines=SEJA+BEM+VINDO+AO+MEU+PERFIL!;)](https://git.io/typing-svg)
+<p> 📔 Sou estudante de Sistemas de informação no IFS.</p>
+<p> 🧑‍💻 Tenho preferência pelo backend mas estou disposto a fazer o front também</p>
+<p> 📝 Estou sempre em busca de novos conhecimentos!</p>
 
-<h3 align="left">Contato:</h3>
+<h2 align="left">Contato:</h2>
 <p align="left">
 <a href="mailto:romariosilva859@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rom%C3%A1rio-silva-b587b228a" height="30" width="40" /></a>

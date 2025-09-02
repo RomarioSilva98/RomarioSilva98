@@ -35,5 +35,12 @@
 <br>
 
 <div>
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RomarioSilva98&show_icons=true&theme=gotham" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RomarioSilva98&theme=gotham" /> </p><p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioSilva98&layout=compact&theme=gotham&langs_count=6" /> </p>
+<p align="center"> 
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RomarioSilva98&show_icons=true&theme=gotham" /> 
+   <img width="2%" alt="" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=RomarioSilva98&theme=gotham" /> 
+</p>
+  <p align="center"> 
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioSilva98&layout=compact&theme=gotham&langs_count=6" /> 
+  </p>
 </div>
